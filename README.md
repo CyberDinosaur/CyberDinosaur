@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @CyberDinosaur
-- 👀 I’m interested in Data Mining and Artificial Intelligence
